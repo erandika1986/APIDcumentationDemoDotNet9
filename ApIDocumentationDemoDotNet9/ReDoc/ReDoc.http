@@ -1,0 +1,6 @@
+@ReDoc_HostAddress = http://localhost:5277
+
+GET {{ReDoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
